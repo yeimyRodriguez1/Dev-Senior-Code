@@ -2,7 +2,7 @@ package Clases.lib.Modulo01.ProyectoFinal;
 
 import java.util.Scanner;
 
-public class App {
+public class ProyectoFinal01 {
     static Scanner scanner = new Scanner(System.in);
     static String nombre = "N/A";
     static double notaUno = -1, notaDos = -1, notaTres = -1;
