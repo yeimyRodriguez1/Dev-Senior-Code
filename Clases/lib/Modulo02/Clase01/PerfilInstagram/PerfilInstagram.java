@@ -1,4 +1,4 @@
-package Clases.lib.Modulo02.PerfilInstagram;
+package Clases.lib.Modulo02.Clase01.PerfilInstagram;
 
 public class PerfilInstagram {
    private String username;

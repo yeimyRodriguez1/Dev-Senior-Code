@@ -1,4 +1,4 @@
-package Clases.lib.Modulo02.Rappi;
+package Clases.lib.Modulo02.Clase01.Rappi;
 
 public class App {
  

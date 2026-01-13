@@ -1,4 +1,4 @@
-package Clases.lib.Modulo02.Spotify;
+package Clases.lib.Modulo02.Clase01.Spotify;
 
 public class Cancion {
         //atributos

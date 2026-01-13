@@ -1,4 +1,4 @@
-package Clases.lib.Modulo02.CarritoDeCompras;
+package Clases.lib.Modulo02.Clase01.CarritoDeCompras;
 
 public class App {
 
