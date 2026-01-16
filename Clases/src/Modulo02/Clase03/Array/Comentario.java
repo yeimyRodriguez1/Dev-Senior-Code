@@ -1,0 +1,20 @@
+package Clases.src.Modulo02.Clase03.Array;
+
+public class Comentario {
+    private String autor;
+    private String texto;
+
+    public Comentario(String autor, String texto) {
+        this.autor = autor;
+        this.texto = texto;
+    }
+
+    // getter y setters
+    public String getAutor() {
+        return autor;
+    }
+
+    public String getTexto() {
+        return texto;
+    }
+}
