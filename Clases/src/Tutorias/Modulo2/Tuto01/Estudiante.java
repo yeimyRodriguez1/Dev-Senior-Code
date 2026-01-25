@@ -1,3 +1,4 @@
+package Tuto01;
 public class Estudiante {
 
     // Atributos del Estudiante
@@ -154,6 +155,6 @@ public class Estudiante {
         System.out.println("Calificación: " + obtenerCalificacion());
         System.out.println("Estado Académico: " + obtenerEstadoAcademico());
         System.out.println("Puede Graduarse: " + (puedeGraduarse() ? "Sí" : "No"));
-        
+
     }
 }
