@@ -1,4 +1,4 @@
-package Tuto02;
+package Tutorias.Modulo2.Tuto02;
 
 public class Videojuego extends Producto {
 
