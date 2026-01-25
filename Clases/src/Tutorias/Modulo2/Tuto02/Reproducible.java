@@ -6,6 +6,6 @@ public interface Reproducible {
     void pausar();
 
     default void detener() {
-        System.out.println("Reproduccion detenida.");
+        System.out.println("Reproducción detenida.");
     }
 }
