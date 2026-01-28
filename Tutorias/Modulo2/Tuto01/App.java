@@ -1,4 +1,4 @@
-package Tuto01;
+package Tutorias.Modulo2.Tuto01;
 import java.net.Socket;
 
 public class App {

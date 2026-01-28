@@ -1,3 +1,5 @@
+package Tutorias;
+
 import java.util.Scanner;
 
 public class CalculadoraDeCompra {

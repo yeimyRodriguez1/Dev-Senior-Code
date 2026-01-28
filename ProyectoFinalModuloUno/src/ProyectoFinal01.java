@@ -1,4 +1,4 @@
-package ProyectoFinalModuloUno.ProyectoFinal.src;
+package ProyectoFinalModuloUno.src;
 
 import java.util.Scanner;
 

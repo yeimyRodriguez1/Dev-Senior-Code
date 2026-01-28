@@ -1,3 +1,5 @@
+package Tutorias;
+
 import java.util.Scanner;
 
 /*Aplicación que calcula que clima vamos a tener mañana*/

@@ -1,4 +1,4 @@
-package Tuto01;
+package Tutorias.Modulo2.Tuto01;
 public class Estudiante {
 
     // Atributos del Estudiante
