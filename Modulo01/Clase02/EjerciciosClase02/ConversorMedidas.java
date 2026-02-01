@@ -1,4 +1,4 @@
-package Clases.src.Modulo01.Clase02.EjerciciosClase02;
+package Modulo01.Clase02.EjerciciosClase02;
 
 import java.util.Scanner;
 

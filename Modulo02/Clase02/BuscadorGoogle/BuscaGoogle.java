@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.BuscadorGoogle;
+package Modulo02.Clase02.BuscadorGoogle;
 
 public class BuscaGoogle {
 

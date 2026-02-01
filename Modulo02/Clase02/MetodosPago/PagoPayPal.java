@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.MetodosPago;
+package Modulo02.Clase02.MetodosPago;
 
 public class PagoPayPal implements MetodPago{
     @Override

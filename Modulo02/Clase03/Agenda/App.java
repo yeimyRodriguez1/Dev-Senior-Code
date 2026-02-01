@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase03.Agenda;
+package Modulo02.Clase03.Agenda;
 
 public class App {
     public static void main(String[] args) {

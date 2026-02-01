@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase01.CarritoDeCompras;
+package Modulo02.Clase01.CarritoDeCompras;
 
 public class Producto {
 

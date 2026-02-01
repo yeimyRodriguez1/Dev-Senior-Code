@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.ReaccionesTikTok;
+package Modulo02.Clase02.ReaccionesTikTok;
 
 public interface Reaccionable {
 

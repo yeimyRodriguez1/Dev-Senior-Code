@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.PlataformaEstudiantil;
+package Modulo02.Clase02.PlataformaEstudiantil;
 
 public class Curso {
     private String nombreCurso;

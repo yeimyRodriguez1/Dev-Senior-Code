@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.PlataformaStreaming;
+package Modulo02.Clase02.PlataformaStreaming;
 
 public class Documental extends ContenidoStreaming implements Reproducible {
 

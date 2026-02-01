@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase01.Spotify;
+package Modulo02.Clase01.Spotify;
 
 import java.util.Scanner;
 

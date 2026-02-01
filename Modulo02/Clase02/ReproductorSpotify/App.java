@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.ReproductorSpotify;
+package Modulo02.Clase02.ReproductorSpotify;
 
 public class App {
 

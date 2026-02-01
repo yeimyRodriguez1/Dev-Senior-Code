@@ -1,4 +1,4 @@
-package Clases.src.Modulo03.Clase01.Practica;
+package Modulo03.Clase01.Practica;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

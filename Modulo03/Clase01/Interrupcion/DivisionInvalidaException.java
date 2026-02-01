@@ -1,4 +1,4 @@
-package Clases.src.Modulo03.Clase01.Interrupcion;
+package Modulo03.Clase01.Interrupcion;
 
 public class DivisionInvalidaException extends RuntimeException {
 

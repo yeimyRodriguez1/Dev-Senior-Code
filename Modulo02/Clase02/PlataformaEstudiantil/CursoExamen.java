@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.PlataformaEstudiantil;
+package Modulo02.Clase02.PlataformaEstudiantil;
 
 public class CursoExamen extends Curso implements Calificable {
     public CursoExamen(String nombreCurso, String nombreDocente, int duracionHoras, int cantidadEstudiantes) {

@@ -1,6 +1,4 @@
-package Clases.src.Modulo03.Clase01.Interrupcion;
-
-import Clases.src.Modulo03.Clase01.Practica.DivisionInvalidaException;
+package Modulo03.Clase01.Interrupcion;
 
 public class App {
     public static void main(String[] args) {

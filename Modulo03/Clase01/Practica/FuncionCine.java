@@ -1,4 +1,4 @@
-package Clases.src.Modulo03.Clase01.Practica;
+package Modulo03.Clase01.Practica;
 
 public class FuncionCine {
     private int asientosDisponibles;

@@ -1,4 +1,4 @@
-package Clases.src.Modulo01.Clase02.EjerciciosClase02;
+package Modulo01.Clase02.EjerciciosClase02;
 
 /*
 En España, las rebajas de invierno suelen comenzar entre los días 1 y 7 de enero y finalizan a final de marzo. 

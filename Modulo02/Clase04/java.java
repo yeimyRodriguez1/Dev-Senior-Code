@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase04;
+package Modulo02.Clase04;
 
 public class java {
     

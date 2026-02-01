@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase01.Rappi;
+package Modulo02.Clase01.Rappi;
 
 public class Pedido {
 

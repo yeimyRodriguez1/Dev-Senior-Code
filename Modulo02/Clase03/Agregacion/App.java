@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase03.Agregacion;
+package Modulo02.Clase03.Agregacion;
 
 
 public class App {

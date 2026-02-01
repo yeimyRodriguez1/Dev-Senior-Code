@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase01.SistemaLoginBasico;
+package Modulo02.Clase01.SistemaLoginBasico;
 
 public class App {
 

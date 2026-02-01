@@ -1,4 +1,4 @@
-package Clases.src.Modulo01.Clase02;
+package Modulo01.Clase02;
 
 public class App {
     public static void main(String[] args) throws Exception {

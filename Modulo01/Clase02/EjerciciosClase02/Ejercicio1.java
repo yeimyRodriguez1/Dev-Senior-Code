@@ -1,4 +1,4 @@
-package Clases.src.Modulo01.Clase02.EjerciciosClase02;
+package Modulo01.Clase02.EjerciciosClase02;
 
 /* 
 En este reto deberás programar la operación matemática "6 / 2 ( 1 + 2 )" utilizando las instrucciones necesarias.

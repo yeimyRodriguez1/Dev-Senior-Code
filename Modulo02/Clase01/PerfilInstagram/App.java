@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase01.PerfilInstagram;
+package Modulo02.Clase01.PerfilInstagram;
 
 public class App {
 

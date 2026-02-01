@@ -1,4 +1,4 @@
-package Clases.src.Modulo01.Clase03.EjerciciosClase03;
+package Modulo01.Clase03.EjerciciosClase03;
 
 /*
 Escriba un programa que escriba en pantalla los números del 1 al 100 de 5 en 5.

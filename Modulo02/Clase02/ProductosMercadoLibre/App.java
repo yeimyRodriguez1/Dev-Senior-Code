@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.ProductosMercadoLibre;
+package Modulo02.Clase02.ProductosMercadoLibre;
 
 public class App {
     public static void main(String[] args) {

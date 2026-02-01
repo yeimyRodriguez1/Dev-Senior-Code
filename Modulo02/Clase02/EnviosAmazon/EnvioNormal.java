@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.EnviosAmazon;
+package Modulo02.Clase02.EnviosAmazon;
 
 public class EnvioNormal extends Amazon {
 

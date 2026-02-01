@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02;
+package Modulo02.Clase02;
 
 public class Gerente extends Empleado implements Trabajable {
 

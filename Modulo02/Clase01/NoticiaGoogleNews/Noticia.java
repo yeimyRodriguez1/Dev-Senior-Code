@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase01.NoticiaGoogleNews;
+package Modulo02.Clase01.NoticiaGoogleNews;
 
 public class Noticia {
 

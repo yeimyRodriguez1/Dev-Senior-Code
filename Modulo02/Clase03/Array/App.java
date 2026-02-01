@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase03.Array;
+package Modulo02.Clase03.Array;
 
 public class App {
     public static void main(String[] args) throws Exception {

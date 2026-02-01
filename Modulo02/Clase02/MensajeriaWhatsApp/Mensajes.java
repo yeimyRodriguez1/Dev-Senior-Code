@@ -1,4 +1,4 @@
-package Clases.src.Modulo02.Clase02.MensajeriaWhatsApp;
+package Modulo02.Clase02.MensajeriaWhatsApp;
 
 public class Mensajes {
     public void enviarMensaje(String texto) {

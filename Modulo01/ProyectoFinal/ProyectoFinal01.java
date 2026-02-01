@@ -1,4 +1,4 @@
-package Clases.src.Modulo01.ProyectoFinal;
+package Modulo01.ProyectoFinal;
 
 import java.util.Scanner;
 
